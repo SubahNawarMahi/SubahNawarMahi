@@ -1,5 +1,5 @@
-- ### 👋 Hi, I’m @SubahNawarMahi
-- ## 👀 I’m interested in Software Enginnering, Machine Learning, Data Analysis and Deep Learning. 
+ ### 👋 Hi, I’m @SubahNawarMahi
+ ## 👀 I’m interested in Software Enginnering, Machine Learning, Data Analysis and Deep Learning. 
 - 🌱 I’m currently studying Computer Science and Engineering at Khulna University of Engineering & Technology. I hope to become a professional engineer one day.
 - 💞️ I love to learn new things and explore. 
 - 📫 

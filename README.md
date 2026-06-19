@@ -1,8 +1,8 @@
  ### 👋 Hi, I’m @SubahNawarMahi
- ## 👀 I’m interested in Software Enginnering, Machine Learning, Data Analysis and Deep Learning. 
+ ## 👀 I’m interested in AI Security, Explainability, Artificial Intelligence, Multimodal Deep Learning,Computer Vision and AI in Healthcare. 
 - 🌱 I’m currently working as a Lecturer in Department of Computer Science and Engineering at Khulna University of Engineering & Technology. I hope to become a professional engineer one day.
 - 💞️ I love to learn new things and explore. 
-- 📫 
+  
 
 <!---
 SubahNawarMahi/SubahNawarMahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
